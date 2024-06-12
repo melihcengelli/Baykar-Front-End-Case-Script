@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.menu-item {
+  display: flex;
+}
